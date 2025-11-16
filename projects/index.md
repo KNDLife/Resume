@@ -25,8 +25,9 @@ This page contains details of training I've acquired, skills I've developed and 
 - Knowledge and understanding of BGP, EIGRP, OSFP, & RIP
 - Proficient with Windows-platform installation, maintenance, security, and connectivity
 - Extensive knowledgeable and experienced with various Linux operating systems and configurations
+  - Kali, Ubuntu, Tails, Zorin installed and configured on hardware, VMs and Docker containers
 - Experience in Web site development; HTML, CSS and various editors and management tools
-- Knowledgeable with and utilizes MS SQL; Basic Python and PowerShell experience
+- Knowledgeable with and utilizes MS SQL: Basic Python and PowerShell experience
   
 ## Projects
 
