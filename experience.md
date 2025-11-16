@@ -65,7 +65,7 @@
 - Jun 2004 – Oct 2008 First Sergeant
 - May 1984 – Jun 2004 Multimedia (A/V) Specialist
 
-## PROFESSIONAL ORGANIZATIONS
+## Professional Organizations
 - Service Officer, AL Post 283 (2021 – Present)
 - Adjutant, VFW Post 8543 (2014 – 2017)
 - Treasurer, Penn State Fayette – Student Veterans of America (2016 – 2017)
