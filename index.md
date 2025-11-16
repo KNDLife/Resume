@@ -1,4 +1,4 @@
-Welcome to my online resume and project portfolio.
+Welcome to my online resume and project portfolio. Here you will find information about me and my goals along with standard resume content regarding work experience and professional organization.  There is also detailed information on my skills, training and projects, including more details than could be on a standard resume.  But if you just want a standard resume, there is a link below.
 
 ## About Me
 As an IT System Analyst with a strong background in networking and desktop support along with CompTIA A+, Network+, and Security+ certifications, I am looking to transition into a dedicated career as a Cybersecurity Analyst. I am currently working to complete the Google Cybersecurity Certificate to further solidify my skills in threat detection, risk assessment, and incident response. 
