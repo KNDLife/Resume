@@ -3,9 +3,7 @@ This page contains details of training I've acquired, skills I've developed and 
 ## Training
 - CompTIA A+, Network + and Security + certified and current (Exp.07/2029)
 - CompTIA Secure Infrastructure Specialist – CSIS Stackable Certification - Jul 2023 · Expires Jul 2029
--   Credential ID 0G78BNMFCPBEQN57Credential ID 0G78BNMFCPBEQN57
 - CompTIA IT Operations Specialist – CIOS Stackable Certification - Issued Jul 2017 · Expires Jul 2029
--   Credential ID 4084XKMPKG14Q9CLCredential ID 4084XKMPKG14Q9CL
 - CompTia AI Essential competency certification (in progress)
 - Google CyberSecurity certification (in progress)
 - New Horizons Computer Learning Center, ITIL Training (Feb 2018)
