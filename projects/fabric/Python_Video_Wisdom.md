@@ -119,4 +119,4 @@ Python's simplicity, flexibility, and community support make it an accessible to
 - Leverage Python's capabilities for diverse programming tasks and challenges.
 - Investigate Python's integration with databases, hardware, and software.
 - Recognize Python's potential in transforming productivity and innovation.
-```
+- 
