@@ -1,4 +1,36 @@
-## Projects List
+This page contains details of training I've acquired, skills I've developed and some of the projects I've worked.  The projects I've listed are not all enclusive.
+
+## Training
+- CompTIA A+, Network + and Security + certified and current (Exp.07/2029)
+- CompTIA Secure Infrastructure Specialist – CSIS Stackable Certification - Jul 2023 · Expires Jul 2029
+-   Credential ID 0G78BNMFCPBEQN57Credential ID 0G78BNMFCPBEQN57
+- CompTIA IT Operations Specialist – CIOS Stackable Certification - Issued Jul 2017 · Expires Jul 2029
+-   Credential ID 4084XKMPKG14Q9CLCredential ID 4084XKMPKG14Q9CL
+- CompTia AI Essential competency certification (in progress)
+- Google CyberSecurity certification (in progress)
+- New Horizons Computer Learning Center, ITIL Training (Feb 2018)
+- AA, Information Sciences & Technology, Penn State, (May 2017 – 3.91 GPA)
+-   Magna Cum Laude and Pi Sigma Phi Honor Society
+- IBM Data Fundamentals - Nov 2024
+- IBM Artificial Intelligence Fundamentals - Oct 2024
+- IBM Fundamentals of Sustainability and Technology - Oct 2024
+- PMI Generative AI Overview for Project Managers - Oct 2024
+- Smarsh Certified Professional Archive Administrator - Issued Aug 2022 · Expired Aug 2024
+- AA, Human Relations, Community College of the Air Force, (2007)
+- Certified Training Instructor, U.S. Air Force, (1998)
+
+## Skills
+- Broad knowledge of troubleshooting network connectivity at all levels of the OSI model
+- Extensive knowledge, experience, & troubleshooting skills with TCP/IP Ethernet networks
+- Experienced setup, use & maintenance of Cisco routers & switches; CLI proficiency
+- Utilizes Packet Tracer to build, test & troubleshoot various network environments & designs
+- Knowledge and understanding of BGP, EIGRP, OSFP, & RIP
+- Proficient with Windows-platform installation, maintenance, security, and connectivity
+- Extensive knowledgeable and experienced with various Linux operating systems and configurations
+- Experience in Web site development; HTML, CSS and various editors and management tools
+- Knowledgeable with and utilizes MS SQL; Basic Python and PowerShell experience
+  
+## Projects
 
 #### Fabric AI Project
 
