@@ -1,5 +1,3 @@
-# Danny Bolbecker
-
 Welcome to my online resume and project portfolio.
 
 ## About Me
