@@ -64,3 +64,11 @@
 ### Master Sergeant, United States Air Force (Ret.) – various locations (May 1984 – Oct 2008)
 - Jun 2004 – Oct 2008 First Sergeant
 - May 1984 – Jun 2004 Multimedia (A/V) Specialist
+
+## PROFESSIONAL ORGANIZATIONS
+- Service Officer, AL Post 283 (2021 – Present)
+- Adjutant, VFW Post 8543 (2014 – 2017)
+- Treasurer, Penn State Fayette – Student Veterans of America (2016 – 2017)
+- CPR/First Aid Instructor – American Red Cross (2010 – 2019)
+- Toastmasters International certification – Competent Toastmaster (2004)
+- VP of Public Relations – Okinawa chapter of Toastmasters International (2005)
