@@ -23,8 +23,8 @@ I am seeking a Cybersecurity Analyst role where I can apply my technical knowled
 
 ## Work History
 ### City of Jacksonville Beach, Fl. (Feb 2023 – Present)
-· ERP Systems Analyst for city utility billing and HR conversion to Munis ERP system
-· Administers and maintains city ERP financial system ensuring uninterrupted processing
+- ERP Systems Analyst for city utility billing and HR conversion to Munis ERP system
+- Administers and maintains city ERP financial system ensuring uninterrupted processing
 · Maintains ERP system Microsoft 2019 DB ensuring functionality and high availability
 · Responsible for Munis ERP administration, maintenance, upgrades, and configuration
 · Maintains and administers Windows and Linux based Touch Time, time clocks
