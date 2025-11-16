@@ -105,4 +105,4 @@ I am seeking a Cybersecurity Analyst role where I can apply my technical knowled
 ## Supplemental Information
 - [Projects](projects/)
 - [Download Resume (PDF)](assets/DannyB-Resume.pdf)
-- [Contact](mailto:example@example.com)
+- [Contact](mailto:dannyb62@live.com)
