@@ -13,7 +13,9 @@ I am seeking a Cybersecurity Analyst role where I can apply my technical knowled
 • CompTIA A+, Network + and Security + certified and current (Exp.07/2029)
 
 • Broad knowledge of troubleshooting network connectivity at all levels of the OSI model
+
 • Extensive knowledge, experience, & troubleshooting skills with TCP/IP Ethernet networks
+
 • Experienced setup, use & maintenance of Cisco routers & switches; CLI proficiency
 • Utilizes Packet Tracer to build, test & troubleshoot various network environments & designs
 • Knowledge and understanding of BGP, EIGRP, OSFP, & RIP
