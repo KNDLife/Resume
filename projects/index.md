@@ -8,7 +8,7 @@ This page contains details of training I've acquired, skills I've developed and 
 - Google CyberSecurity certification (in progress)
 - New Horizons Computer Learning Center, ITIL Training (Feb 2018)
 - AA, Information Sciences & Technology, Penn State, (May 2017 – 3.91 GPA)
--   Magna Cum Laude and Pi Sigma Phi Honor Society
+  - Magna Cum Laude and Pi Sigma Phi Honor Society
 - IBM Data Fundamentals - Nov 2024
 - IBM Artificial Intelligence Fundamentals - Oct 2024
 - IBM Fundamentals of Sustainability and Technology - Oct 2024
