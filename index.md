@@ -11,7 +11,7 @@ I am seeking a Cybersecurity Analyst role where I can apply my technical knowled
 - Please visit my [Training, Skills and Projects](projects/) page for detailed information on these topics.
 
 ## Work History
-My work experience includes 20+ years of honorable service in the U.S. Air Force. Supplementing training experience from the USAF, I have 7 years of high school training and training experience in the corporate world. My IT experience was gained and honed not only in the corporate world but also at the county and city municipal levels. These experiences include dealing with hundreds of customers and working in roles that include basic help desk duties, network management and security, network infrastucture and system administration managing AD, group policies and software management. My experience also included specialized work to include security and voip system.  For more details, visit my [work experience](experience) page.
+My work experience includes 20+ years of honorable service in the U.S. Air Force. Supplementing training experience from the USAF, I have 7 years of high school training and training experience in the corporate world. My IT experience was gained and honed not only in the corporate world but also at the county and city municipal levels. These experiences include dealing with hundreds of customers and working in roles that include basic help desk duties, network management and security, network infrastucture and system administration managing AD, group policies and software management. My experience also included specialized work to include security and voip system.  For more details, visit my [work experience](experience.md) page.
 
 ## PROFESSIONAL ORGANIZATIONS
 - Service Officer, AL Post 283 (2021 – Present)
