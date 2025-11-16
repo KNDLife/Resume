@@ -1,4 +1,3 @@
-```markdown
 # SUMMARY
 The text explains Python programming in simple terms, highlighting its ease of use, flexibility, and practical applications.
 
