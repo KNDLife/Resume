@@ -8,18 +8,11 @@ I am passionate about securing organizational systems and data, and I thrive on 
 I am seeking a Cybersecurity Analyst role where I can apply my technical knowledge, problem-solving ability, and passion for protecting critical information systems to help an organization strengthen its overall security posture. 
 
 ## Training, Skills and Projects
-- Please visit my [Training, Skills and Projects](projects/) page for detailed information on these topics.
+As an individual who is always striving to learn and becore a better person, I am constantly seeking new opportunities to better myself.  Due to this mindset I have acquired a vast array of skills that I like to practice and hone in an endeavor to continually improve. Please visit my [Training, Skills and Projects](projects/) page for detailed information on these topics.
 
-## Work History
+## Work History and Professional Organization
 My work experience includes 20+ years of honorable service in the U.S. Air Force. Supplementing training experience from the USAF, I have 7 years of high school training and training experience in the corporate world. My IT experience was gained and honed not only in the corporate world but also at the county and city municipal levels. These experiences include dealing with hundreds of customers and working in roles that include basic help desk duties, network management and security, network infrastucture and system administration managing AD, group policies and software management. My experience also included specialized work to include security and voip system.  For more details, visit my [work experience](experience.md) page.
 
-## PROFESSIONAL ORGANIZATIONS
-- Service Officer, AL Post 283 (2021 – Present)
-- Adjutant, VFW Post 8543 (2014 – 2017)
-- Treasurer, Penn State Fayette – Student Veterans of America (2016 – 2017)
-- CPR/First Aid Instructor – American Red Cross (2010 – 2019)
-- Toastmasters International certification – Competent Toastmaster (2004)
-- VP of Public Relations – Okinawa chapter of Toastmasters International (2005)
 
 ## Supplemental Information
 
