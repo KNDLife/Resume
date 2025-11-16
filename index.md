@@ -7,17 +7,8 @@ I am passionate about securing organizational systems and data, and I thrive on 
 
 I am seeking a Cybersecurity Analyst role where I can apply my technical knowledge, problem-solving ability, and passion for protecting critical information systems to help an organization strengthen its overall security posture. 
 
-## Technical Skills
-- CompTIA A+, Network + and Security + certified and current (Exp.07/2029)
-- Broad knowledge of troubleshooting network connectivity at all levels of the OSI model
-- Extensive knowledge, experience, & troubleshooting skills with TCP/IP Ethernet networks
-- Experienced setup, use & maintenance of Cisco routers & switches; CLI proficiency
-- Utilizes Packet Tracer to build, test & troubleshoot various network environments & designs
-- Knowledge and understanding of BGP, EIGRP, OSFP, & RIP
-- Proficient with Windows-platform installation, maintenance, security, and connectivity
-- Knowledgeable and experienced with Linux operating systems
-- Experience in Web site development; HTML, CSS and various editors and management tools
-- Knowledgeable with and utilizes MS SQL; Basic Python and PowerShell experience
+## Training, Skills and Projects
+- Please visit my [Training, Skills and Projects](projects/) page for detailed information on these topics.
 
 ## Work History
 ### City of Jacksonville Beach, Fl. (Feb 2023 – Present)
@@ -101,6 +92,6 @@ I am seeking a Cybersecurity Analyst role where I can apply my technical knowled
 - VP of Public Relations – Okinawa chapter of Toastmasters International (2005)
 
 ## Supplemental Information
-- [Projects](projects/)
+
 - [Download Resume (PDF)](assets/DannyB-Resume.pdf)
 - [Contact](mailto:dannyb62@live.com)
